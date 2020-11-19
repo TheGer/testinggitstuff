@@ -10,6 +10,10 @@ public class createObject : MonoBehaviour
 
     GameObject squareToLoad;
     //the data structure I am storing the positions in
+	
+	//also this is an extra comment
+	
+	//okay this is different now
     HashSet<Vector3> positions;
     
     
